@@ -32,14 +32,14 @@ function initializeCoinAnimation () {
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
         . . . . . . f f f f . . . . . . 
-        . . . . f f 5 5 5 5 f f . . . . 
-        . . . . f 5 5 5 5 5 5 f . . . . 
-        . . . f 5 5 5 4 4 5 5 5 f . . . 
-        . . . f 5 5 5 4 4 5 5 5 f . . . 
-        . . . f 5 5 5 4 4 5 5 5 f . . . 
-        . . . f 5 5 5 4 4 5 5 5 f . . . 
-        . . . . f 5 5 5 5 5 5 f . . . . 
-        . . . . f f 5 5 5 5 f f . . . . 
+        . . . . f f 9 9 9 9 f f . . . . 
+        . . . . f 9 9 9 9 9 9 f . . . . 
+        . . . f 9 9 9 4 4 9 9 9 f . . . 
+        . . . f 9 9 9 4 4 9 9 9 f . . . 
+        . . . f 9 9 9 4 4 9 9 9 f . . . 
+        . . . f 9 9 9 4 4 9 9 9 f . . . 
+        . . . . f 9 9 9 9 9 9 f . . . . 
+        . . . . f f 9 9 9 9 f f . . . . 
         . . . . . . f f f f . . . . . . 
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
@@ -50,14 +50,14 @@ function initializeCoinAnimation () {
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
         . . . . f f f f f f . . . . . . 
-        . . . f f 5 f 5 5 5 f . . . . . 
-        . . . f 5 f 5 5 5 5 5 f . . . . 
-        . . f 5 f 5 5 5 4 5 5 f . . . . 
-        . . f 5 f 5 5 5 4 4 5 5 f . . . 
-        . . f 5 f 5 5 5 4 4 5 5 f . . . 
-        . . f 5 f 5 5 5 4 5 5 f . . . . 
-        . . . f 5 f 5 5 5 5 5 f . . . . 
-        . . . . f 5 f 5 5 5 f . . . . . 
+        . . . f f 9 f 9 9 9 f . . . . . 
+        . . . f 9 f 9 9 9 9 9 f . . . . 
+        . . f 9 f 9 9 9 4 9 9 f . . . . 
+        . . f 9 f 9 9 9 4 4 9 9 f . . . 
+        . . f 9 f 9 9 9 4 4 9 9 f . . . 
+        . . f 9 f 9 9 9 4 9 9 f . . . . 
+        . . . f 9 f 9 9 9 9 9 f . . . . 
+        . . . . f 9 f 9 9 9 f . . . . . 
         . . . . f f f f f f . . . . . . 
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
@@ -68,14 +68,14 @@ function initializeCoinAnimation () {
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
         . . . . . f f f f f . . . . . . 
-        . . . . f f 5 f 5 f f . . . . . 
-        . . . f f 5 f 5 5 5 f . . . . . 
-        . . . f 5 f 5 5 5 5 f f . . . . 
-        . . . f 5 f 5 5 4 5 5 f . . . . 
-        . . . f 5 f 5 5 4 5 5 f . . . . 
-        . . . f 5 f 5 5 5 5 f f . . . . 
-        . . . f f 5 f 5 5 5 f . . . . . 
-        . . . . f f 5 f 5 f f . . . . . 
+        . . . . f f 9 f 9 f f . . . . . 
+        . . . f f 9 f 9 9 9 f . . . . . 
+        . . . f 9 f 9 9 9 9 f f . . . . 
+        . . . f 9 f 9 9 4 9 9 f . . . . 
+        . . . f 9 f 9 9 4 9 9 f . . . . 
+        . . . f 9 f 9 9 9 9 f f . . . . 
+        . . . f f 9 f 9 9 9 f . . . . . 
+        . . . . f f 9 f 9 f f . . . . . 
         . . . . . f f f f f . . . . . . 
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
@@ -87,12 +87,12 @@ function initializeCoinAnimation () {
         . . . . . . . . . . . . . . . . 
         . . . . . . f f f f . . . . . . 
         . . . . . f f f f f . . . . . . 
-        . . . . . f 5 f 5 f f . . . . . 
-        . . . . . f 5 f 5 5 f . . . . . 
-        . . . . . f 5 f 5 5 f . . . . . 
-        . . . . . f 5 f 5 5 f . . . . . 
-        . . . . . f 5 f 5 5 f . . . . . 
-        . . . . . f 5 f 5 f f . . . . . 
+        . . . . . f 9 f 9 f f . . . . . 
+        . . . . . f 9 f 9 9 f . . . . . 
+        . . . . . f 9 f 9 9 f . . . . . 
+        . . . . . f 9 f 9 9 f . . . . . 
+        . . . . . f 9 f 9 9 f . . . . . 
+        . . . . . f 9 f 9 f f . . . . . 
         . . . . . f f f f f . . . . . . 
         . . . . . . f f f f . . . . . . 
         . . . . . . . . . . . . . . . . 
@@ -105,12 +105,12 @@ function initializeCoinAnimation () {
         . . . . . . . . . . . . . . . . 
         . . . . . . f f f f . . . . . . 
         . . . . . . f f f f f . . . . . 
-        . . . . . f f 5 f 5 f . . . . . 
-        . . . . . f 5 5 f 5 f . . . . . 
-        . . . . . f 5 5 f 5 f . . . . . 
-        . . . . . f 5 5 f 5 f . . . . . 
-        . . . . . f 5 5 f 5 f . . . . . 
-        . . . . . f f 5 f 5 f . . . . . 
+        . . . . . f f 9 f 9 f . . . . . 
+        . . . . . f 9 9 f 9 f . . . . . 
+        . . . . . f 9 9 f 9 f . . . . . 
+        . . . . . f 9 9 f 9 f . . . . . 
+        . . . . . f 9 9 f 9 f . . . . . 
+        . . . . . f f 9 f 9 f . . . . . 
         . . . . . . f f f f f . . . . . 
         . . . . . . f f f f . . . . . . 
         . . . . . . . . . . . . . . . . 
@@ -122,14 +122,14 @@ function initializeCoinAnimation () {
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
         . . . . . . f f f f f . . . . . 
-        . . . . . f f 5 f 5 f f . . . . 
-        . . . . . f 5 5 5 f 5 f f . . . 
-        . . . . f f 5 5 5 5 f 5 f . . . 
-        . . . . f 5 5 4 5 5 f 5 f . . . 
-        . . . . f 5 5 4 5 5 f 5 f . . . 
-        . . . . f f 5 5 5 5 f 5 f . . . 
-        . . . . . f 5 5 5 f 5 f f . . . 
-        . . . . . f f 5 f 5 f f . . . . 
+        . . . . . f f 9 f 9 f f . . . . 
+        . . . . . f 9 9 9 f 9 f f . . . 
+        . . . . f f 9 9 9 9 f 9 f . . . 
+        . . . . f 9 9 4 9 9 f 9 f . . . 
+        . . . . f 9 9 4 9 9 f 9 f . . . 
+        . . . . f f 9 9 9 9 f 9 f . . . 
+        . . . . . f 9 9 9 f 9 f f . . . 
+        . . . . . f f 9 f 9 f f . . . . 
         . . . . . . f f f f f . . . . . 
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
@@ -140,14 +140,14 @@ function initializeCoinAnimation () {
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
         . . . . . . f f f f f f . . . . 
-        . . . . . f 5 5 5 f 5 f f . . . 
-        . . . . f 5 5 5 5 5 f 5 f . . . 
-        . . . . f 5 5 4 5 5 5 f 5 f . . 
-        . . . f 5 5 4 4 5 5 5 f 5 f . . 
-        . . . f 5 5 4 4 5 5 5 f 5 f . . 
-        . . . . f 5 5 4 5 5 5 f 5 f . . 
-        . . . . f 5 5 5 5 5 f 5 f . . . 
-        . . . . . f 5 5 5 f 5 f . . . . 
+        . . . . . f 9 9 9 f 9 f f . . . 
+        . . . . f 9 9 9 9 9 f 9 f . . . 
+        . . . . f 9 9 4 9 9 9 f 9 f . . 
+        . . . f 9 9 4 4 9 9 9 f 9 f . . 
+        . . . f 9 9 4 4 9 9 9 f 9 f . . 
+        . . . . f 9 9 4 9 9 9 f 9 f . . 
+        . . . . f 9 9 9 9 9 f 9 f . . . 
+        . . . . . f 9 9 9 f 9 f . . . . 
         . . . . . . f f f f f f . . . . 
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
@@ -182,19 +182,19 @@ function animateIdle () {
     mainIdleLeft.addAnimationFrame(img`
         . . . . . . . . . . . . . . . . 
         . . . f f f f f f f f f f . . . 
-        . . f e e e e e e e e e e f . . 
-        . f e e e e e e e e e e e e f . 
-        . f d d d d d d d d d e e d f . 
-        . f d d f d d d d f d d e d f . 
-        . f d d f d d d d f d d d e f . 
-        . f d d f d d d d f d d d f . . 
+        . . f 1 1 1 1 1 1 1 1 1 1 f . . 
+        . f 1 1 1 1 1 1 1 1 1 1 1 1 f . 
+        . f d d d d d d d d d 1 1 d f . 
+        . f d d a d d d d a d d 1 d f . 
+        . f d d f d d d d f d d d 1 f . 
+        . f d d a d d d d a d d d f . . 
         . f d d d d d d d d d d d f . . 
-        . f a c c c c c c c c a b f . . 
+        . f e c c c c c c c c e b f . . 
         . f d d c c c c c c d d d f . . 
         . f d f f f b b f f f d d f . . 
-        . . f a a a a a a a a a b f . . 
-        . . . f a a b f f a a b f . . . 
-        . . . f a a b f f a a b f . . . 
+        . . f e e e e e e e e e b f . . 
+        . . . f e e b f f e e b f . . . 
+        . . . f e e b f f e e b f . . . 
         . . . . f f f . . f f f . . . . 
         `)
     mainIdleRight = animation.createAnimation(ActionKind.IdleRight, 100)
@@ -202,19 +202,19 @@ function animateIdle () {
     mainIdleRight.addAnimationFrame(img`
         . . . . . . . . . . . . . . . . 
         . . . f f f f f f f f f f . . . 
-        . . f e e e e e e e e e e f . . 
-        . f e e e e e e e e e e e e f . 
-        . f d e e d d d d d d d d d f . 
-        . f d e d d f d d d d f d d f . 
-        . f e d d d f d d d d f d d f . 
-        . . f d d d f d d d d f d d f . 
+        . . f 1 1 1 1 1 1 1 1 1 1 f . . 
+        . f 1 1 1 1 1 1 1 1 1 1 1 1 f . 
+        . f d 1 1 d d d d d d d d d f . 
+        . f d 1 d d a d d d d a d d f . 
+        . f 1 d d d f d d d d f d d f . 
+        . . f d d d a d d d d a d d f . 
         . . f d d d d d d d d d d d f . 
-        . . f b a c c c c c c c c a f . 
+        . . f b e c c c c c c c c e f . 
         . . f d d d c c c c c c d d f . 
         . . f d d f f f b b f f f d f . 
-        . . f b a a a a a a a a a f . . 
-        . . . f b a a f f b a a f . . . 
-        . . . f b a a f f b a a f . . . 
+        . . f b e e e e e e e e e f . . 
+        . . . f b e e f f b e e f . . . 
+        . . . f b e e f f b e e f . . . 
         . . . . f f f . . f f f . . . . 
         `)
 }
@@ -238,73 +238,73 @@ function animateRun () {
     mainRunLeft.addAnimationFrame(img`
         . . . . . . . . . . . . . . . . 
         . . . f f f f f f f . . . . . . 
-        . . f e e e e e e e f . . . . . 
-        . f e e e e e e e e e f . . . . 
-        . f d d d d e d d e e f . . . . 
-        . f d d f d d e d e e f . . . . 
-        . f d d f d d d e e e f . . . . 
-        . f d d f d d d d d d f . . . . 
+        . . f 1 1 1 1 1 1 1 f . . . . . 
+        . f 1 1 1 1 1 1 1 1 1 f . . . . 
+        . f d d d d 1 d d 1 1 f . . . . 
+        . f d d a d d 1 d 1 1 f . . . . 
+        . f d d f d d d 1 1 1 f . . . . 
+        . f d d a d d d d d d f . . . . 
         . f d d d d d d d d d f . . . . 
-        . . f c c c a a c c b f . . . . 
+        . . f c c c e e c c b f . . . . 
         . . f c c d d d c c b f . . . . 
         . . f b f f d d f f f f . . . . 
-        . . f a a a a a a a b f . . . . 
-        . . . f a a a a b f f . . . . . 
-        . . . f a a a a b f . . . . . . 
+        . . f e e e e e e e b f . . . . 
+        . . . f e e e e b f f . . . . . 
+        . . . f e e e e b f . . . . . . 
         . . . . f f f f f . . . . . . . 
         `)
     mainRunLeft.addAnimationFrame(img`
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
         . . . f f f f f f f . . . . . . 
-        . . f e e e e e e e f . . . . . 
-        . f e e e e e e e e e f . . . . 
-        . f d d d d e d d e e f . . . . 
-        . f d d f d d e d e e f . . . . 
-        . f d d f d d d e e e f . . . . 
-        . f d d f d d d d d d f . . . . 
+        . . f 1 1 1 1 1 1 1 f . . . . . 
+        . f 1 1 1 1 1 1 1 1 1 f . . . . 
+        . f d d d d 1 d d 1 1 f . . . . 
+        . f d d a d d 1 d 1 1 f . . . . 
+        . f d d f d d d 1 1 1 f . . . . 
+        . f d d a d d d d d d f . . . . 
         . f d d d d d d d d d f . . . . 
-        . . f c c c c a a c b f . . . . 
+        . . f c c c c e e c b f . . . . 
         . . f c c c c d d c b f . . . . 
         . . f b f f d d d f f f f . . . 
-        . . f a a a a a a a a b f f . . 
-        . . . f a a b f f a a a f f . . 
+        . . f e e e e e e e e b f f . . 
+        . . . f e e b f f e e e f f . . 
         . . . . f f f . f f f f f . . . 
         `)
     mainRunLeft.addAnimationFrame(img`
         . . . . . . . . . . . . . . . . 
         . . . f f f f f f f . . . . . . 
-        . . f e e e e e e e f . . . . . 
-        . f e e e e e e e e e f . . . . 
-        . f d d d d e d d e e f . . . . 
-        . f d d f d d e d e e f . . . . 
-        . f d d f d d d e e e f . . . . 
-        . f d d f d d d d d d f . . . . 
+        . . f 1 1 1 1 1 1 1 f . . . . . 
+        . f 1 1 1 1 1 1 1 1 1 f . . . . 
+        . f d d d d 1 d d 1 1 f . . . . 
+        . f d d a d d 1 d 1 1 f . . . . 
+        . f d d f d d d 1 1 1 f . . . . 
+        . f d d a d d d d d d f . . . . 
         . f d d d d d d d d d f . . . . 
-        . . f c c c a a c c b f . . . . 
+        . . f c c c e e c c b f . . . . 
         . . f c c d d d c c b f . . . . 
         . . f b f f d d f f f f . . . . 
-        . . f a a a a a a a b f . . . . 
-        . . . f a a a a b f f . . . . . 
-        . . . f a a a a b f . . . . . . 
+        . . f e e e e e e e b f . . . . 
+        . . . f e e e e b f f . . . . . 
+        . . . f e e e e b f . . . . . . 
         . . . . f f f f f . . . . . . . 
         `)
     mainRunLeft.addAnimationFrame(img`
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
         . . . f f f f f f f . . . . . . 
-        . . f e e e e e e e f . . . . . 
-        . f e e e e e e e e e f . . . . 
-        . f d d d d e d d e e f . . . . 
-        . f d d f d d e d e e f . . . . 
-        . f d d f d d d e e e f . . . . 
-        . f d d f d d d d d d f . . . . 
+        . . f 1 1 1 1 1 1 1 f . . . . . 
+        . f 1 1 1 1 1 1 1 1 1 f . . . . 
+        . f d d d d 1 d d 1 1 f . . . . 
+        . f d d a d d 1 d 1 1 f . . . . 
+        . f d d f d d d 1 1 1 f . . . . 
+        . f d d a d d d d d d f . . . . 
         . f d d d d d d d d d f . . . . 
-        . . f c a a c c c c b f . . . . 
+        . . f c e e c c c c b f . . . . 
         . f d d d b c c c c b f . . . . 
         f f f d d f f f f f f f . . . . 
-        f f f a a a a a a a b f . . . . 
-        . f a a b f a a b f f . . . . . 
+        f f f e e e e e e e b f . . . . 
+        . f e e b f e e b f f . . . . . 
         . f f f f . f f f . . . . . . . 
         `)
     mainRunRight = animation.createAnimation(ActionKind.RunningRight, 100)
@@ -312,73 +312,73 @@ function animateRun () {
     mainRunRight.addAnimationFrame(img`
         . . . . . . . . . . . . . . . . 
         . . . . . . f f f f f f f . . . 
-        . . . . . f e e e e e e e f . . 
-        . . . . f e e e e e e e e e f . 
-        . . . . f e e d d e d d d d f . 
-        . . . . f e e d e d d f d d f . 
-        . . . . f e e e d d d f d d f . 
-        . . . . f d d d d d d f d d f . 
+        . . . . . f 1 1 1 1 1 1 1 f . . 
+        . . . . f 1 1 1 1 1 1 1 1 1 f . 
+        . . . . f 1 1 d d 1 d d d d f . 
+        . . . . f 1 1 d 1 d d a d d f . 
+        . . . . f 1 1 1 d d d f d d f . 
+        . . . . f d d d d d d a d d f . 
         . . . . f d d d d d d d d d f . 
-        . . . . f b c c a a c c c f . . 
+        . . . . f b c c e e c c c f . . 
         . . . . f b c c d d d c c f . . 
         . . . . f f f f d d f f b f . . 
-        . . . . f b a a a a a a a f . . 
-        . . . . . f f b a a a a f . . . 
-        . . . . . . f b a a a a f . . . 
+        . . . . f b e e e e e e e f . . 
+        . . . . . f f b e e e e f . . . 
+        . . . . . . f b e e e e f . . . 
         . . . . . . . f f f f f . . . . 
         `)
     mainRunRight.addAnimationFrame(img`
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
         . . . . . . f f f f f f f . . . 
-        . . . . . f e e e e e e e f . . 
-        . . . . f e e e e e e e e e f . 
-        . . . . f e e d d e d d d d f . 
-        . . . . f e e d e d d f d d f . 
-        . . . . f e e e d d d f d d f . 
-        . . . . f d d d d d d f d d f . 
+        . . . . . f 1 1 1 1 1 1 1 f . . 
+        . . . . f 1 1 1 1 1 1 1 1 1 f . 
+        . . . . f 1 1 d d 1 d d d d f . 
+        . . . . f 1 1 d 1 d d a d d f . 
+        . . . . f 1 1 1 d d d f d d f . 
+        . . . . f d d d d d d a d d f . 
         . . . . f d d d d d d d d d f . 
-        . . . . f b c a a c c c c f . . 
+        . . . . f b c e e c c c c f . . 
         . . . . f b c d d c c c c f . . 
         . . . f f f f d d d f f b f . . 
-        . . f f b a a a a a a a a f . . 
-        . . f f a a a f f b a a f . . . 
+        . . f f b e e e e e e e e f . . 
+        . . f f e e e f f b e e f . . . 
         . . . f f f f . . f f f . . . . 
         `)
     mainRunRight.addAnimationFrame(img`
         . . . . . . . . . . . . . . . . 
         . . . . . . f f f f f f f . . . 
-        . . . . . f e e e e e e e f . . 
-        . . . . f e e e e e e e e e f . 
-        . . . . f e e d d e d d d d f . 
-        . . . . f e e d e d d f d d f . 
-        . . . . f e e e d d d f d d f . 
-        . . . . f d d d d d d f d d f . 
+        . . . . . f 1 1 1 1 1 1 1 f . . 
+        . . . . f 1 1 1 1 1 1 1 1 1 f . 
+        . . . . f 1 1 d d 1 d d d d f . 
+        . . . . f 1 1 d 1 d d a d d f . 
+        . . . . f 1 1 1 d d d f d d f . 
+        . . . . f d d d d d d a d d f . 
         . . . . f d d d d d d d d d f . 
-        . . . . f b c c a a c c c f . . 
+        . . . . f b c c e e c c c f . . 
         . . . . f b c c d d d c c f . . 
         . . . . f f f f d d f f b f . . 
-        . . . . f b a a a a a a a f . . 
-        . . . . . f f b a a a a f . . . 
-        . . . . . . f b a a a a f . . . 
+        . . . . f b e e e e e e e f . . 
+        . . . . . f f b e e e e f . . . 
+        . . . . . . f b e e e e f . . . 
         . . . . . . . f f f f f . . . . 
         `)
     mainRunRight.addAnimationFrame(img`
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
         . . . . . . f f f f f f f . . . 
-        . . . . . f e e e e e e e f . . 
-        . . . . f e e e e e e e e e f . 
-        . . . . f e e d d e d d d d f . 
-        . . . . f e e d e d d f d d f . 
-        . . . . f e e e d d d f d d f . 
-        . . . . f d d d d d d f d d f . 
+        . . . . . f 1 1 1 1 1 1 1 f . . 
+        . . . . f 1 1 1 1 1 1 1 1 1 f . 
+        . . . . f 1 1 d d 1 d d d d f . 
+        . . . . f 1 1 d 1 d d a d d f . 
+        . . . . f 1 1 1 d d d f d d f . 
+        . . . . f d d d d d d a d d f . 
         . . . . f d d d d d d d d d f . 
-        . . . . f b c c c c a a c f . . 
+        . . . . f b c c c c e e c f . . 
         . . . . f b c c c c b d d d f . 
         . . . . f f f f f f f d d f f f 
-        . . . . f b a a a a a a a f f f 
-        . . . . . f f b a a f b a a f . 
+        . . . . f b e e e e e e e f f f 
+        . . . . . f f b e e f b e e f . 
         . . . . . . . f f f . f f f . . 
         `)
 }
@@ -391,36 +391,36 @@ function animateJumps () {
     mainJumpLeft.addAnimationFrame(img`
         . . . . . . . . . . . . . . . . 
         . . . f f f f f f f f f f . . . 
-        . . f e e e e e e e e e e f . . 
-        . f e e e e e e e e e e e e f . 
-        . f d d d d d d d d d e e d f . 
-        . f d d f d d d d f d d e d f . 
-        . f d d f d d d d f d d d e f . 
-        . f d d f d d d d f d d d f . . 
+        . . f 1 1 1 1 1 1 1 1 1 1 f . . 
+        . f 1 1 1 1 1 1 1 1 1 1 1 1 f . 
+        . f d d d d d d d d d 1 1 d f . 
+        . f d d a d d d d a d d 1 d f . 
+        . f d d f d d d d f d d d 1 f . 
+        . f d d a d d d d a d d d f . . 
         . f d d d d d d d d d d d f . . 
-        . f a c c c c c c c c a b f . . 
+        . f e c c c c c c c c e b f . . 
         . f d d c c c c c c d d d f . . 
         . f d f f f b b f f f d d f . . 
-        . . f a a a a a a a a a b f . . 
-        . . . f a a b f f a a b f . . . 
-        . . . f a a b f f a a b f . . . 
+        . . f e e e e e e e e e b f . . 
+        . . . f e e b f f e e b f . . . 
+        . . . f e e b f f e e b f . . . 
         . . . . f f f . . f f f . . . . 
         `)
     mainJumpLeft.addAnimationFrame(img`
         . . . . . . . . . . . . . . . . 
         . . . f f f f f f f f f f . . . 
-        . . f e e e e e e e e e e f . . 
-        . f e e e e e e e e e e e e f . 
-        . f d d d d d d d d d e e d f . 
-        . f d d f d d d d f d d e d f . 
-        . f d d f d d d d f d d d e f . 
-        . f d d f d d d d f d d d f . . 
+        . . f 1 1 1 1 1 1 1 1 1 1 f . . 
+        . f 1 1 1 1 1 1 1 1 1 1 1 1 f . 
+        . f d d d d d d d d d 1 1 d f . 
+        . f d d a d d d d a d d 1 d f . 
+        . f d d f d d d d f d d d 1 f . 
+        . f d d a d d d d a d d d f . . 
         . f d d d d d d d d d d d f . . 
-        . f a c c c c c c c c a b f . . 
+        . f e c c c c c c c c e b f . . 
         . f d d c c c c c c d d d f . . 
         . f d f f f b b f f f d d f . . 
-        . . f a a a a a a a a a b f . . 
-        . . . f a a b f f a a b f . . . 
+        . . f e e e e e e e e e b f . . 
+        . . . f e e b f f e e b f . . . 
         . . . . f f f . . f f f . . . . 
         . . . . . . . . . . . . . . . . 
         `)
@@ -428,18 +428,18 @@ function animateJumps () {
         mainJumpLeft.addAnimationFrame(img`
             . . . . . . . . . . . . . . . . 
             . . . f f f f f f f f f f . . . 
-            . . f e e e e e e e e e e f . . 
-            . f e e e e e e e e e e e e f . 
-            . f d d d d d d d d d e e d f . 
-            . f d d f d d d d f d d e d f . 
-            . f d d f d d d d f d d d e f . 
-            . f d d f d d d d f d d d f . . 
+            . . f 1 1 1 1 1 1 1 1 1 1 f . . 
+            . f 1 1 1 1 1 1 1 1 1 1 1 1 f . 
+            . f d d d d d d d d d 1 1 d f . 
+            . f d d a d d d d a d d 1 d f . 
+            . f d d f d d d d f d d d 1 f . 
+            . f d d a d d d d a d d d f . . 
             . f d d d d d d d d d d d f f . 
-            . d a b c c c c c c c c b a d . 
-            . d a c c c c c c c c c c a d . 
+            . d e b c c c c c c c c b e d . 
+            . d e c c c c c c c c c c e d . 
             . f f f f f b b f f f f f f f . 
-            . . f a a a a a a a a a b f . . 
-            . . . f a a b f f a a b f . . . 
+            . . f e e e e e e e e e b f . . 
+            . . . f e e b f f e e b f . . . 
             . . . . f f f . . f f f . . . . 
             . . . . . . . . . . . . . . . . 
             `)
@@ -449,36 +449,36 @@ function animateJumps () {
     mainJumpRight.addAnimationFrame(img`
         . . . . . . . . . . . . . . . . 
         . . . f f f f f f f f f f . . . 
-        . . f e e e e e e e e e e f . . 
-        . f e e e e e e e e e e e e f . 
-        . f d e e d d d d d d d d d f . 
-        . f d e d d f d d d d f d d f . 
-        . f e d d d f d d d d f d d f . 
-        . . f d d d f d d d d f d d f . 
+        . . f 1 1 1 1 1 1 1 1 1 1 f . . 
+        . f 1 1 1 1 1 1 1 1 1 1 1 1 f . 
+        . f d 1 1 d d d d d d d d d f . 
+        . f d 1 d d a d d d d a d d f . 
+        . f 1 d d d f d d d d f d d f . 
+        . . f d d d a d d d d a d d f . 
         . . f d d d d d d d d d d d f . 
-        . . f b a c c c c c c c c a f . 
+        . . f b e c c c c c c c c e f . 
         . . f d d d c c c c c c d d f . 
         . . f d d f f f b b f f f d f . 
-        . . f b a a a a a a a a a f . . 
-        . . . f b a a f f b a a f . . . 
-        . . . f b a a f f b a a f . . . 
+        . . f b e e e e e e e e e f . . 
+        . . . f b e e f f b e e f . . . 
+        . . . f b e e f f b e e f . . . 
         . . . . f f f . . f f f . . . . 
         `)
     mainJumpRight.addAnimationFrame(img`
         . . . . . . . . . . . . . . . . 
         . . . f f f f f f f f f f . . . 
-        . . f e e e e e e e e e e f . . 
-        . f e e e e e e e e e e e e f . 
-        . f d e e d d d d d d d d d f . 
-        . f d e d d f d d d d f d d f . 
-        . f e d d d f d d d d f d d f . 
-        . . f d d d f d d d d f d d f . 
+        . . f 1 1 1 1 1 1 1 1 1 1 f . . 
+        . f 1 1 1 1 1 1 1 1 1 1 1 1 f . 
+        . f d 1 1 d d d d d d d d d f . 
+        . f d 1 d d a d d d d a d d f . 
+        . f 1 d d d f d d d d f d d f . 
+        . . f d d d a d d d d a d d f . 
         . . f d d d d d d d d d d d f . 
-        . . f b a c c c c c c c c a f . 
+        . . f b e c c c c c c c c e f . 
         . . f d d d c c c c c c d d f . 
         . . f d d f f f b b f f f d f . 
-        . . f b a a a a a a a a a f . . 
-        . . . f b a a f f b a a f . . . 
+        . . f b e e e e e e e e e f . . 
+        . . . f b e e f f b e e f . . . 
         . . . . f f f . . f f f . . . . 
         . . . . . . . . . . . . . . . . 
         `)
@@ -486,18 +486,18 @@ function animateJumps () {
         mainJumpRight.addAnimationFrame(img`
             . . . . . . . . . . . . . . . . 
             . . . f f f f f f f f f f . . . 
-            . . f e e e e e e e e e e f . . 
-            . f e e e e e e e e e e e e f . 
-            . f d e e d d d d d d d d d f . 
-            . f d e d d f d d d d f d d f . 
-            . f e d d d f d d d d f d d f . 
-            . . f d d d f d d d d f d d f . 
+            . . f 1 1 1 1 1 1 1 1 1 1 f . . 
+            . f 1 1 1 1 1 1 1 1 1 1 1 1 f . 
+            . f d 1 1 d d d d d d d d d f . 
+            . f d 1 d d a d d d d a d d f . 
+            . f 1 d d d f d d d d f d d f . 
+            . . f d d d a d d d d a d d f . 
             . f f d d d d d d d d d d d f . 
-            . d a b c c c c c c c c b a d . 
-            . d a c c c c c c c c c c a d . 
+            . d e b c c c c c c c c b e d . 
+            . d e c c c c c c c c c c e d . 
             . f f f f f f f b b f f f f f . 
-            . . f b a a a a a a a a a f . . 
-            . . . f b a a f f b a a f . . . 
+            . . f b e e e e e e e e e f . . 
+            . . . f b e e f f b e e f . . . 
             . . . . f f f . . f f f . . . . 
             . . . . . . . . . . . . . . . . 
             `)
@@ -511,17 +511,17 @@ function animateCrouch () {
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
         . . . f f f f f f f f f f . . . 
-        . . f e e e e e e e e e e f . . 
-        . f e e e e e e e e e e e e f . 
-        . f d d d d d d d d d e e d f . 
-        . f d d f d d d d f d d e d f . 
-        . f d d f d d d d f d d d e f . 
-        . f d d f d d d d f d d d f . . 
+        . . f 1 1 1 1 1 1 1 1 1 1 f . . 
+        . f 1 1 1 1 1 1 1 1 1 1 1 1 f . 
+        . f d d d d d d d d d 1 1 d f . 
+        . f d d a d d d d a d d 1 d f . 
+        . f d d f d d d d f d d d 1 f . 
+        . f d d a d d d d a d d d f . . 
         . f d d d d d d d d d d d f . . 
-        . f a c c c c c c c c a b f . . 
+        . f e c c c c c c c c e b f . . 
         . f d c c c c c c c c c d d f . 
         f d d f f f b b f f f f d d f . 
-        . f f a a a a a a a a a b f . . 
+        . f f e e e e e e e e e b f . . 
         . . . f f f f . f f f f f . . . 
         `)
     mainCrouchRight = animation.createAnimation(ActionKind.CrouchRight, 100)
@@ -531,17 +531,17 @@ function animateCrouch () {
         . . . . . . . . . . . . . . . . 
         . . . . . . . . . . . . . . . . 
         . . . f f f f f f f f f f . . . 
-        . . f e e e e e e e e e e f . . 
-        . f e e e e e e e e e e e e f . 
-        . f d e e d d d d d d d d d f . 
-        . f d e d d f d d d d f d d f . 
-        . f e d d d f d d d d f d d f . 
-        . . f d d d f d d d d f d d f . 
+        . . f 1 1 1 1 1 1 1 1 1 1 f . . 
+        . f 1 1 1 1 1 1 1 1 1 1 1 1 f . 
+        . f d 1 1 d d d d d d d d d f . 
+        . f d 1 d d a d d d d a d d f . 
+        . f 1 d d d f d d d d f d d f . 
+        . . f d d d a d d d d a d d f . 
         . . f d d d d d d d d d d d f . 
-        . . f b a c c c c c c c c a f . 
+        . . f b e c c c c c c c c e f . 
         . f d d c c c c c c c c c d f . 
         . f d d f f f f b b f f f d d f 
-        . . f b a a a a a a a a a f f . 
+        . . f b e e e e e e e e e f f . 
         . . . f f f f f . f f f f . . . 
         `)
 }
@@ -600,14 +600,14 @@ function spawnGoals () {
             . . . . . . . . . . . . . . . . 
             . . . . . . . . . . . . . . . . 
             . . . . . . f f f f . . . . . . 
-            . . . . f f 5 5 5 5 f f . . . . 
-            . . . . f 5 5 5 5 5 5 f . . . . 
-            . . . f 5 5 5 4 4 5 5 5 f . . . 
-            . . . f 5 5 5 4 4 5 5 5 f . . . 
-            . . . f 5 5 5 4 4 5 5 5 f . . . 
-            . . . f 5 5 5 4 4 5 5 5 f . . . 
-            . . . . f 5 5 5 5 5 5 f . . . . 
-            . . . . f f 5 5 5 5 f f . . . . 
+            . . . . f f 9 9 9 9 f f . . . . 
+            . . . . f 9 9 9 9 9 9 f . . . . 
+            . . . f 9 9 9 4 4 9 9 9 f . . . 
+            . . . f 9 9 9 4 4 9 9 9 f . . . 
+            . . . f 9 9 9 4 4 9 9 9 f . . . 
+            . . . f 9 9 9 4 4 9 9 9 f . . . 
+            . . . . f 9 9 9 9 9 9 f . . . . 
+            . . . . f f 9 9 9 9 f f . . . . 
             . . . . . . f f f f . . . . . . 
             . . . . . . . . . . . . . . . . 
             . . . . . . . . . . . . . . . . 
@@ -649,19 +649,19 @@ let hero: Sprite = null
 hero = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . f f f f f f f f f f . . . 
-    . . f e e e e e e e e e e f . . 
-    . f e e e e e e e e e e e e f . 
-    . f d e e d d d d d d d d d f . 
-    . f d e d d f d d d d f d d f . 
-    . f e d d d f d d d d f d d f . 
-    . . f d d d f d d d d f d d f . 
+    . . f 1 1 1 1 1 1 1 1 1 1 f . . 
+    . f 1 1 1 1 1 1 1 1 1 1 1 1 f . 
+    . f d 1 1 d d d d d d d d d f . 
+    . f d 1 d d a d d d d a d d f . 
+    . f 1 d d d f d d d d f d d f . 
+    . . f d d d a d d d d a d d f . 
     . . f d d d d d d d d d d d f . 
-    . . f b a c c c c c c c c a f . 
+    . . f b e c c c c c c c c e f . 
     . . f d d d c c c c c c d d f . 
     . . f d d f f f b b f f f d f . 
-    . . f b a a a a a a a a a f . . 
-    . . . f b a a f f b a a f . . . 
-    . . . f b a a f f b a a f . . . 
+    . . f b e e e e e e e e e f . . 
+    . . . f b e e f f b e e f . . . 
+    . . . f b e e f f b e e f . . . 
     . . . . f f f . . f f f . . . . 
     `, SpriteKind.Player)
 // how long to pause between each contact with a
