@@ -157,7 +157,7 @@ function initializeCoinAnimation () {
 sprites.onOverlap(SpriteKind.Player, SpriteKind.Coin, function (sprite, otherSprite) {
     otherSprite.destroy()
     otherSprite.y += -3
-    info.changeScoreBy(3)
+    info.changeScoreBy(1)
     music.baDing.play()
 })
 function attemptJump () {
@@ -170,7 +170,6 @@ function attemptJump () {
         if (hero.vy >= -40) {
             doubleJumpSpeed = -4.5 * pixelsToMeters
             hero.startEffect(effects.trail, 500)
-            scene.cameraShake(2, 250)
         }
         hero.vy = doubleJumpSpeed
         canDoubleJump = false
