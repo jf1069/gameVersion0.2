@@ -18,6 +18,9 @@ namespace SpriteKind {
     export const Coin = SpriteKind.create()
     export const Flier = SpriteKind.create()
 }
+scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile1`, function (sprite, location) {
+    game.over(false, effects.melt)
+})
 function initializeAnimations () {
     initializeHeroAnimations()
     initializeCoinAnimation()
@@ -562,6 +565,9 @@ controller.down.onEvent(ControllerButtonEvent.Pressed, function () {
     if (!(hero.isHittingTile(CollisionDirection.Bottom))) {
         hero.vy += 80
     }
+})
+scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile2`, function (sprite, location) {
+    game.over(false, effects.melt)
 })
 function showInstruction (text: string) {
     game.showLongText(text, DialogLayout.Bottom)
