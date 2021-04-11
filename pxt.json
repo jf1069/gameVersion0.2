@@ -1,5 +1,5 @@
 {
-    "name": "gameVersion0.2",
+    "name": "gameVersion0.3",
     "description": "",
     "dependencies": {
         "device": "*",
