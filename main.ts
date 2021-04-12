@@ -225,6 +225,10 @@ function setLevelTileMap (level: number) {
     if (level == 0) {
         tiles.setTilemap(tilemap`level0`)
     } else if (level == 1) {
+        tiles.setTilemap(tilemap`level2`)
+    } else if (level == 2) {
+        tiles.setTilemap(tilemap`level3`)
+    } else if (level == 3) {
         tiles.setTilemap(tilemap`level4`)
         scene.setBackgroundImage(img`
             9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
@@ -348,10 +352,6 @@ function setLevelTileMap (level: number) {
             9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
             9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
             `)
-    } else if (level == 2) {
-        tiles.setTilemap(tilemap`level3`)
-    } else if (level == 3) {
-        tiles.setTilemap(tilemap`level2`)
     }
     initializeLevel(level)
 }
